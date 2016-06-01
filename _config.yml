@@ -1,4 +1,3 @@
-layout_spectrum: 0.12438737880438566
 typography_spectrum: 0.5939388878177851
 color:
   brandStrength: 0.6481164193246514
@@ -6,9 +5,14 @@ color:
   saturation: 0.7144369420129806
   rhythmicContrast: 0.3254535091109574
   brandColors:
-    - '#000000'
-    - '#333333'
-    - '#FF358B'
-    - '#01B0F0'
-    - '#AEEE00'
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+layout_spectrum: 0.12438737880438566
+author:
+  name: Cecilia Bokedal
+  email: hej@ceciliabokedal.se
 name: cecilia bokedal
+title: för din framgång online
